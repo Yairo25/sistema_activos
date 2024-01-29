@@ -1,0 +1,7 @@
+echo "# sistema_activos" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M main 
+git remoto agregar origen https://github.com/Yairo25/sistema_activos.git
+ git push - su origen principal
